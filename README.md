@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Mohamed Olwi<br>- 👀 I’m interested in game dev and mobile dev using flutter and <br>- 🌱 I’m currently learning C# with unity and flutter<br>- 📫 reach me by contacting me on my email mohamedolwi38@gmail.com
+👋 Hi, I’m Mohamed Olwi<br>- 👀 I’m interested in game dev and mobile dev using flutter <br>- 🌱 I’m currently learning C# with unity and flutter<br>- 📫 reach me by contacting me on my email mohamedolwi38@gmail.com
 
 
 ## 🌐 Socials:
